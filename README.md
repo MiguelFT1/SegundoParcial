@@ -1,4 +1,5 @@
 # SegundoParcial
+# Miguel Angel Flechas Tenorio 
 
 # Primer Punto
 # Calculadora de Operaciones con Números Racionales
