@@ -1,0 +1,11 @@
+int 0 infinity e^(-3 * t) dt
+Transformada de Laplace: 1/(s + 3) dt
+
+int 0 infinity e^(-2 * t) * sin(4 * t) dt
+Transformada de Laplace: 1/(s + 2) * 4/(s^2 + 16) dt
+
+Ejemplo presentado en el documento:
+
+int 0 infinity e^(-s * t) * f(t) dt
+Transformada de Laplace: 1/(s + s) * F(s) dt
+

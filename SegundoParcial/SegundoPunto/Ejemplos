@@ -1,0 +1,19 @@
+MAP(lambda x: x.upper(), ["hola", "mundo", "python"])
+
+MAP(lambda x: x * 2, [1, 2, 3])
+
+MAP(lambda x: x ** 2, [1, 2, 3, 4, 5])
+
+MAP(lambda x: x > 2 and x < 5, [1, 2, 3, 4, 5])
+
+MAP(lambda x: (x + 2) * 5 - 10 / 2 ** 2, [1, 2, 3, 4])
+
+MAP(lambda x: x * 3, {1, 2, 3})
+
+MAP(lambda x: x ** 2, range(1, 5))
+
+MAP(lambda x: x.upper(), {"name": "Alice", "city": "London"}.keys())
+
+MAP(str,[1,2,3])
+
+FILTER(multiple, [1, 2, 3, 4, 5, 6])
